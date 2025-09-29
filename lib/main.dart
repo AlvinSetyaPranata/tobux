@@ -50,7 +50,7 @@ class CardScreen extends StatelessWidget {
                 mainAxisSize: MainAxisSize.min,
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: const [
-                  Icon(Icons.science, size: 50, color: Colors.deepPurple),
+                  Icon(Icons.favorite, size: 50, color: Colors.pinkAccent),
                   SizedBox(height: 20),
                   Text(
                     "Judul Penelitian Tugas Akhir:",
